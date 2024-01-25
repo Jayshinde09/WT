@@ -1,0 +1,22 @@
+books { 
+	color: white; 
+	background-color : slateblue; 
+	width: 100%; 
+} 
+heading { 
+	color: tomato; 
+	font-size : 40px; 
+	background-color : powderblue; 
+    padding: 40px;
+    margin: 40px;
+    text-align: center;
+} 
+heading, title, publisher,  price { 
+	display : block; 
+    text-transform: capitalize;
+    text-decoration: dotted;
+} 
+title { 
+	font-size : 25px; 
+	font-weight : bold; 
+} 
