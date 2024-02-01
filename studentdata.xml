@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet type="text/css" href="stud1.xsl"?> 
+<Student> 
+	<heading>Student Record</heading> 
+	<stud> 
+		<Rollno>Roll No:- 1</Rollno>
+		<Name>Name:- Jay</Name> 
+		<branch>branch:- CSE</branch>
+	</stud> 
+	
+	<stud> 
+		<Rollno>Roll No:- 2</Rollno>
+		<Name>Name:- Atharv</Name> 
+		<branch>branch:- CSE</branch>
+	</stud> 
+	
+	<stud> 
+		<Rollno>Roll No:- 3</Rollno>
+		<Name>Name:-Omkar</Name> 
+		<branch>branch:- AIML</branch>
+	</stud> 
+	<stud> 
+		<Rollno>Roll No:- 4</Rollno>
+		<Name>Name:-Raj</Name> 
+		<branch>branch:- CSE</branch>
+	</stud> 
+	<stud> 
+		<Rollno>Roll No:- 5</Rollno>
+		<Name>Name:- Vighnesh</Name> 
+		<branch>branch:- CSE</branch>
+	</stud> 
+	<stud> 
+		<Rollno>Roll No:- 6</Rollno>
+		<Name>Name:- Rahel</Name> 
+		<branch>branch:- AIML</branch>
+	</stud> 
+	
+</Student> 
